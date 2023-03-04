@@ -1,0 +1,1 @@
+its all the basic files all u need are html and image files and ofc a db to host the game
