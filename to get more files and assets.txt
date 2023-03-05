@@ -3,3 +3,7 @@ https://web.archive.org/web/*/http://apps.dxd.go.com*
 https://web.archive.org/web/*/http://worldofcars.go.com*
 https://web.archive.org/web/*/https://worldofcars.go.com*
 https://web.archive.org/web/*/https://a.dolimg.com/worldofcars*
+https://web.archive.org/web/*/http://dolimg-60de6c82-be11-98e1-4d6c-c65a234eee95.disney.io/*
+https://web.archive.org/web/*/https://dolimg-60de6c82-be11-98e1-4d6c-c65a234eee95.disney.io/*
+https://web.archive.org/web/*/http://dolimg-60de6c82-be11-98e1-4d6c-c65a234eee95.disney.io/worldofcars*
+https://web.archive.org/web/*/https://dolimg-60de6c82-be11-98e1-4d6c-c65a234eee95.disney.io/worldofcars*
